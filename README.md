@@ -11,3 +11,4 @@ OS Guessing feature will be added soon.
 Developed and tested on Python 3.9.0
 Be sure to run pip install -r requirements.txt or else script will fail.
 To run the script, simply do python run_win.py or run_linux.py according to your OS.
+Idk why but i couldnt delete the Iplogger.py file from the repository. Please dont use it as its outdated.
