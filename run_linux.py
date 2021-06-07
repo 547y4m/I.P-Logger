@@ -5,7 +5,7 @@ import time
 from pyfiglet import Figlet
 
 custom_fig = Figlet(font='graffiti')
-ascii_banner = Figlet.figlet_format("Tracker")
+ascii_banner = custom_fig.figlet_format("Tracker")
 print(ascii_banner)
 print("=================================By-547y4m. (Updated by shasankp000")
 print(f"Detected OS : {platform.platform()}")
